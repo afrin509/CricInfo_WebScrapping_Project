@@ -72,7 +72,7 @@ function createScoreCard(oppName, teamName, matchInfo, rootFolder){
         });
 
         page.drawText(matchInfo.result, {
-            x: 315,
+            x: 310
             y: 671,
             size: 9
         });
