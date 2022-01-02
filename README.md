@@ -19,4 +19,6 @@ Features and Functions:
 MATCHES B/W EACH AND EVERY TEAM
 ![Screenshot (1160)](https://user-images.githubusercontent.com/69108180/147871738-6ffc8425-163f-4dc2-80c2-7c556d86c23d.png)
 Country name vs Matches with other countries
+![Screenshot (1157)](https://user-images.githubusercontent.com/69108180/147871861-3759cccd-7d7e-4f00-b135-5e54129880c7.png)
+![Screenshot (1156)](https://user-images.githubusercontent.com/69108180/147871866-fff8486a-b710-47d6-910b-67849bcc7c52.png)
 
